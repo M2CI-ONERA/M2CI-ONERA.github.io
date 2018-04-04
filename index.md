@@ -2,8 +2,10 @@
 
 [M2CI](https://www.onera.fr/dtis/unites-de-recherche#m2ci/) (Multidisciplinary Methodologies and Integrated Concepts) is a research unit at [ONERA](https://www.onera.fr/) dealing with multidisciplinary design analysis and optimization methodologies and its applications to aerospace vehicle design.  
 
+<img src="M2CI.jpg" alt="hi" class="inline"/>
+
 The developped methodologies (optimization algorithms, MDO formulation, surrogate modeling, uncertainty quantification, reliability analysis, etc.) aims to facilitate design space exploration for multidisciplinary systems.
-![image](src=M2CI.jpg) 
+
 
 ### Markdown
 
