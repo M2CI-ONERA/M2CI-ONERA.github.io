@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/M2CI-ONERA/M2CI-ONERA.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ```
-M2CI (Multidisciplinary Methodologies and Integrated Concepts) is a research unit at ONERA dealing with multidisciplinary design analysis and optimization methodologies and its applications to aerospace vehicle design.  
+[M2CI](https://www.onera.fr/dtis/unites-de-recherche#m2ci/) (Multidisciplinary Methodologies and Integrated Concepts) is a research unit at [ONERA](https://www.onera.fr/) dealing with multidisciplinary design analysis and optimization methodologies and its applications to aerospace vehicle design.  
 The developped methodologies (optimization algorithms, MDO formulation, surrogate modeling, uncertainty quantification, reliability analysis, etc.) aims to facilitate design space exploration for multidisciplinary systems.
 
 ### Markdown
