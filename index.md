@@ -14,38 +14,20 @@ The github for the SMT Toolbox is available [here](https://github.com/SMTorg/SMT
 
 ### Mixed Continuous Discrete - EGO
 
+This toolbox adresses several variants of the Efficient Global Optimization algorithm for costly constrained problems depending simultaneously on continuous decision variables as well as on quantitative and/or qualitative discrete design parameters. The considered adaptations are based on a redefinition of the Gaussian Process kernel as a product between the standard continuous kernel and a second kernel representing the covariance between the discrete variable values. 
+
+The github for this toolbox is available [here](https://github.com/M2CI-ONERA/M2CI-ONERA.github.io/tree/Mixed-Continuous-Discrete-EGO) 
+
+The paper associated to this toolbox is:
+
 
 ### Deep Gaussian Process - EGO
 
-#
-### Markdown
+This toolbox adresses a variant of Efficient Global Optimization (EGO) using Deep Gaussian processes (DGP) to deal with non-stationary functions. Deep Gaussian Processes are a class of surrogate models based on the structure of neural networks, where each layer is a GP. It
+considers that the statistical relationship between the inputs and the response is expressed by a functional composition of GPs
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The github for this toolbox is available [here](https://github.com/M2CI-ONERA/M2CI-ONERA.github.io/tree/Deep-Gaussian-Process-EGO) 
 
-```markdown
-Syntax highlighted code block
+The paper associated to this toolbox is:
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/M2CI-ONERA/M2CI-ONERA.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
