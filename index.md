@@ -12,6 +12,12 @@ The surrogate modeling toolbox (SMT) is a Python package that contains a collect
 
 The github for the SMT Toolbox is available [here](https://github.com/SMTorg/SMT) and the associated [documentations](http://smt.readthedocs.io)
 
+### Mixed Continuous Discrete - EGO
+
+
+### Deep Gaussian Process - EGO
+
+#
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
